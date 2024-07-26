@@ -4,7 +4,9 @@ A meta formatter for eslint that will output to multiple formats
 
 ## Install
 
-`npm install --save-dev eslint-formatter-multiple`
+`npm install --save-dev https://github.com/magarcia/eslint-formatter-multiple.git`
+
+`yarn add --dev https://github.com/magarcia/eslint-formatter-multiple.git`
 
 ## Usage
 
@@ -26,4 +28,4 @@ Update your package.json to have a new section:
   }
 ```
 
-Finally, add the `--format eslint-formatter-multiple` when calling the `eslint` command.
+Finally, add the `--format multiple` when calling the `eslint` command.
