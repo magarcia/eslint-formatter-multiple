@@ -1,5 +1,5 @@
 {
-  "name": "eslint-formatter-multiple",
+  "name": "eslint-formatter-multiple-async",
   "version": "2.0.0",
   "description": "Format eslint results with multiple formatters",
   "main": "index.js",

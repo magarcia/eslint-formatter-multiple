@@ -4,9 +4,9 @@ A meta formatter for eslint that will output to multiple formats
 
 ## Install
 
-`npm install --save-dev https://github.com/magarcia/eslint-formatter-multiple.git`
+`npm install --save-dev eslint-formatter-multiple-async`
 
-`yarn add --dev https://github.com/magarcia/eslint-formatter-multiple.git`
+`yarn add --dev eslint-formatter-multiple-async`
 
 ## Usage
 
